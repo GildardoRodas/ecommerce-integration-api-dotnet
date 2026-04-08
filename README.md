@@ -15,6 +15,17 @@ Este proyecto tiene como objetivo demostrar:
 - Seguridad mediante **JWT**
 - Despliegue y ejecución con **Docker**
 
+
+## Tecnologías principales
+- .NET 8  / ASP.NET Core
+- JWT (JSON Web Tokens)
+- Docker / Docker Compose
+- database (relacionales / no relacionales)
+- Swagger (OpenAPI)
+- Clean Architecture
+- Event architecture
+
+
 ## 🧱 Arquitectura
 
 El proyecto está estructurado siguiendo **Clean Architecture**, separando responsabilidades de forma clara:
