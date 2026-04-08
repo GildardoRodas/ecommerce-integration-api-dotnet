@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Ecommerce.Integration.API/Ecommerce.Integration.API.csproj" />
+    <Project Path="src/Ecommerce.Integration.Application/Ecommerce.Integration.Application.csproj" />
+    <Project Path="src/Ecommerce.Integration.Domain/Ecommerce.Integration.Domain.csproj" />
+    <Project Path="src/Ecommerce.Integration.Infrastructure/Ecommerce.Integration.Infrastructure.csproj" />
+  </Folder>
+  <Project Path="docker-compose.dcproj">
+    <Build />
+  </Project>
+</Solution>
