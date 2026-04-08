@@ -23,7 +23,7 @@ Este proyecto tiene como objetivo demostrar:
 - database (relacionales / no relacionales)
 - Swagger (OpenAPI)
 - Clean Architecture
-- Event architecture
+- Event‑driven architecture (Webhooks)
 
 
 ## 🧱 Arquitectura
